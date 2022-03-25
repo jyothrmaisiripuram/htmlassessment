@@ -1,0 +1,147 @@
+.box {
+    display:grid;
+    height: 20vh;
+    margin: auto;
+    font-style: bold;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  column-gap: 10px;
+}
+.cell1 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+  }
+
+.TACOS{
+    background: yellow;
+    text-align: center;
+    font-style: bold;
+}
+.BEER{
+    background: yellow;
+    text-align: center;
+}
+.WINES{
+    background: yellow;
+    text-align: center;
+}
+.DESSERT{
+    background: yellow;
+    text-align: center;
+}
+.RESERVATIONS{
+    background: yellow;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+
+.cell2 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+  }
+
+
+
+.container {
+    display: grid;
+    height: 90vh;
+    margin: auto;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr ;
+         }
+
+    .cell {
+        color: white;
+        font-size: 50px;
+        text-align: center;
+        padding: 80px;
+      }
+      .box-a{
+        
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+         }
+      .box-b {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-c {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-d {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-e {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-f {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-g {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-h {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-i {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+      .box-j {
+        padding-left: 0 ;
+        padding-top: 0;
+        padding-right: 0;
+        padding-bottom: 0;
+      }
+
+    .grid-container {
+        display: grid;
+        row-gap: 5px;
+        grid-template-columns: 1fr 1fr 1fr ;
+        
+    }
+.grid-menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    row-gap: 20px;
+
+}
+.grid-image1 {
+   
+
+}
+
+  
+
+    
